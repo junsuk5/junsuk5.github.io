@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.survivalcoding.deeplink_cookbook",
+    "sha256_cert_fingerprints":
+    ["57:4C:E9:E2:47:75:16:AF:6B:28:E5:C9:27:8D:49:D6:D4:04:BB:B6:2A:55:AE:DC:BC:E6:B0:BD:B2:A3:AD:53"]
+  }
+}]
